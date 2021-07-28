@@ -12,3 +12,9 @@
 - LICENSE File
 -  README.md File
 - index.html File
+
+features learned :
+- loops
+- if statements
+- Array
+- Functions
