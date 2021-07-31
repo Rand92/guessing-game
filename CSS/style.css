@@ -22,3 +22,19 @@ h1 {
   /* li {
     list-style-type: circle !important ;
   } */
+  p { 
+    text-align: center;
+    background-color: #ff4da6;
+  }
+  ul {
+    text-align: center;
+  }
+  main {
+    margin: 5px;
+    padding:10px;
+  }
+  section{
+    margin: 5px;
+    padding: 10px;
+  }
+ 
